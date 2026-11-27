@@ -6,7 +6,7 @@
 <h1 align="center">Tracer v1.0.0</h1>
 
 <p align="center">
-  RF Impedance Matching, Smith Chart &amp; Component SOA Tool for Windows<br/>
+  RF Impedance Matching, Smith Chart &amp; Component Tool for Windows<br/>
   <a href="#english">English</a> &nbsp;|&nbsp; <a href="#한국어">한국어</a> &nbsp;|&nbsp; <a href="https://github.com/T-ReF/Tracer/releases">Download (Releases)</a>
 </p>
 
