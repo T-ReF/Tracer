@@ -16,7 +16,7 @@
 
 ## English
 
-**Tracer** is a desktop RF engineering tool built for day-to-day impedance matching, Smith Chart work, and component stress checks — mainly around 13.56 MHz RF / plasma matching networks, though it works at any frequency.
+**Tracer** is a desktop RF engineering tool built for day-to-day impedance matching, Smith Chart work, and component stress checks plasma matching networks, though it works at any frequency.
 
 I built it because checking variable vacuum capacitor (VVC) voltage/current ratings, tuning ranges, and S11/power response across a matching network usually meant jumping between spreadsheets, VNA software, and heavy simulators. Tracer puts those pieces in one fast native desktop app.
 
@@ -59,7 +59,7 @@ If you run into a bug, notice a calculation discrepancy, or want a capacitor pre
 
 ## 한국어
 
-**Tracer**는 RF 임피던스 매칭, 스미스 차트 해석, 소자 내압/전류 스트레스(SOA) 검토를 한 화면에서 빠르게 하기 위해 만든 Windows 데스크톱 프로그램입니다. 주로 13.56 MHz 플라즈마 매칭 네트워크 설계를 염두에 두고 만들었지만, 일반 RF 주파수 대역에서도 그대로 사용할 수 있습니다.
+**Tracer**는 RF 임피던스 매칭, 스미스 차트 해석, 소자 내압/전류 스트레스(SOA) 검토를 한 화면에서 빠르게 하기 위해 만든 Windows 데스크톱 프로그램입니다. RF 주파수 대역에서도 그대로 사용할 수 있습니다.
 
 현장에서 매칭 회로를 잡다 보면 VVC(진공 가변 커패시터) 내압·전류 여유, 튜닝 영역, S11/반사전력 등을 엑셀과 시뮬레이터를 오가며 확인해야 하는 번거로움이 있는데, 자주 쓰는 계산과 스미스 차트 시각화를 가볍게 한곳에 모아두었습니다.
 
