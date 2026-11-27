@@ -64,7 +64,7 @@ If you run into a bug, notice a calculation discrepancy, or want a capacitor pre
 현장에서 매칭 회로를 잡다 보면 VVC(진공 가변 커패시터) 내압·전류 여유, 튜닝 영역, S11/반사전력 등을 엑셀과 시뮬레이터를 오가며 확인해야 하는 번거로움이 있는데, 자주 쓰는 계산과 스미스 차트 시각화를 가볍게 한곳에 모아두었습니다.
 
 <p align="center">
-  <img src="assets/screenshot_soa.png" alt="Tracer SOA Power Limit" width="92%" />
+<img width="960" height="520" alt="image" src="https://github.com/user-attachments/assets/8755f6ea-90f8-41dd-b4b5-f70800bd378c" />
 </p>
 
 ### 다운로드 및 실행
