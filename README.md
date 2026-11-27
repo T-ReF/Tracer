@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/Tracer_icon.png" alt="Tracer Logo" width="96" />
+  <img width="512" height="512" alt="Tracer_icon" src="https://github.com/user-attachments/assets/22ebe517-6be2-4dd7-ae8e-e2f241f120b7" />
+
 </p>
 
 <h1 align="center">Tracer v1.0.0</h1>
