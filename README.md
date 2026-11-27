@@ -23,6 +23,7 @@ I built it because checking variable vacuum capacitor (VVC) voltage/current rati
 <!-- Tip: In GitHub's README editor, you can drag and drop your app screenshots right here -->
 <p align="center">
 </p>
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/8755f6ea-90f8-41dd-b4b5-f70800bd378c" />
 
 ### Download & Run
 
