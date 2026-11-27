@@ -21,7 +21,6 @@ I built it because checking variable vacuum capacitor (VVC) voltage/current rati
 
 <!-- Tip: In GitHub's README editor, you can drag and drop your app screenshots right here -->
 <p align="center">
-  <img src="assets/screenshot_main.png" alt="Tracer Circuit Builder and Smith Chart" width="92%" />
 </p>
 
 ### Download & Run
@@ -40,11 +39,6 @@ Grab the latest Windows build from the [**Releases**](https://github.com/T-ReF/T
   - Built-in Comet and Meidensha vacuum capacitor presets (C_min~C_max, working peak voltage, RMS current).
   - Fast 2D tuning range calculation (up to 500×500 points) with Best Match search and one-click apply.
   - Live on-schematic voltage/current stress HUD for both current state and best match.
-
-- **SOA & Power Limit**
-  - Exact nodal voltage/current stress check across every component and load termination at your target RF power (`P_max`).
-  - 2D allowable power map (`P_allow` across C1/C2 tuning range or R-X plane) with Safe / Caution / Danger zones.
-  - Frequency sweep view for S11, VSWR, input impedance (`R_in`, `X_in`), and delivered/reflected power (`P_load`, `P_refl`).
 
 - **Data Export**
   - Export Tuning Range and SOA results to multi-sheet **Excel (`.xlsx`)** or **CSV (`.csv`)** sets (`UTF-8-SIG`, `#` comment metadata ready for Excel, Python/pandas, or MATLAB).
@@ -87,11 +81,6 @@ If you run into a bug, notice a calculation discrepancy, or want a capacitor pre
   - Comet / Meidensha 주요 진공 가변·고정 커패시터 프리셋 내장 (용량 범위, 정격 피크 전압, RMS 전류).
   - 2D 튜닝 영역(최대 500×500 포인트) 고속 계산, Best Match 자동 탐색 및 원클릭 적용.
   - 회로도 위에서 각 단의 전압·전류 스트레스를 바로 확인하는 HUD 오버레이.
-
-- **SOA & Power Limit (안전 동작 영역)**
-  - 설정한 RF 파워(`P_max`) 기준 각 소자 및 부하(Load)의 피크 전압·RMS 전류 스트레스와 병목 소자(Bottleneck) 판정.
-  - C1×C2 튜닝 영역 및 R-X 평면 기준 최대 허용 전력(`P_allow`) 2D 맵과 Safe / Caution / Danger 구간 표시.
-  - 주파수별 S11, VSWR, 입력 임피던스(`R_in`, `X_in`), 전달/반사 전력(`P_load`, `P_refl`) 그래프.
 
 - **데이터 내보내기**
   - Tuning Range / Frequency Sweep / SOA 결과를 멀티 시트 **Excel(`.xlsx`)** 또는 **CSV(`.csv`)** 세트로 저장 (`UTF-8-SIG`, `#` 메타데이터 주석 지원).
